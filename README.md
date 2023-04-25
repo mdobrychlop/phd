@@ -1,6 +1,6 @@
 # Modele opisane w rozprawie doktorskiej pt. "Modelowanie struktur przestrzennych kompleksów makromolekularnych".
 
-> ❗ Ze względu na fakt, że model ACCazy *M. Tuberculosis* nie został jeszcze opublikowany, dostępny jest pod [tym linkiem](https://1drv.ms/f/s!AvfGpuKOAdY_orcH2FDcAME0UaVgFw?e=DywAlk). Hasło do pliku: pierwsze słowo streszczenia zawartego w rozprawie.
+❗ Ze względu na fakt, że model ACCazy *M. Tuberculosis* nie został jeszcze opublikowany, dostępny jest pod [tym linkiem](https://1drv.ms/f/s!AvfGpuKOAdY_orcH2FDcAME0UaVgFw?e=DywAlk). Hasło do pliku: pierwsze słowo streszczenia zawartego w rozprawie.
 
 ## Zawartość repozytorium
 
